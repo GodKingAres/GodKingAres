@@ -1,10 +1,11 @@
-<h1 align="center">Olá, meu nome é Douglas oliveira</h1>
+<h1 align="center">Olá, meu nome é Douglas Oliveira</h1>
+
 - 🌱 Estou estudando atualmente **Java, Unity, GameMaker, JS, OracleDB...**
 
 - 📫 Para entrar em contato comigo: **douglas.doug98@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!--<h3 align="left">Connect with me:</h3>
+<p align="left">-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
